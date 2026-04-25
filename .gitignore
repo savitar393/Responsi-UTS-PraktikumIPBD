@@ -7,4 +7,3 @@ venv/
 *.tmp
 logs/
 config/
-data/
